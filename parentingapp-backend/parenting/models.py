@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 class Kid(models.Model):
-    name = models.CharField(max_length=100)
+    name = models.CharField(max_length=200)
     image = models.ImageField(upload_to="img/%y", null=True, verbose_name="", default='no pic')
 
     def __str__(self):
