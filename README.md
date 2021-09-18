@@ -34,6 +34,8 @@ Interactive app to help parents manage their children schedule. As a parent it's
 
 ## Wireframes
 **************
-![Landing Page1](image/WireFramepj4.jpg)
-![Landing Page1](image/WireFrame4.jpg)
-![Landing Page1](image/WireFramep4.jpg)
+![Landing Page1](https://github.com/MGoss115/parentingapp/blob/main/parenting_django/image/W1.jpeg)
+![Landing Page1](https://github.com/MGoss115/parentingapp/blob/main/parenting_django/image/W2.jpeg)
+![Landing Page1](https://github.com/MGoss115/parentingapp/blob/main/parenting_django/image/W3.jpeg)
+![Landing Page1](https://github.com/MGoss115/parentingapp/blob/main/parenting_django/image/W4.jpeg)
+
