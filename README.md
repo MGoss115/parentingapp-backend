@@ -1,6 +1,6 @@
 # PARENTING APP 3.0
 ******
-![Landing Page](/image/WireFrame4.jpeg)
+![Landing Page](/image/WireFrame4.jpg)
 
 ## Parenting App
 ********************
@@ -34,6 +34,6 @@ Interactive app to help parents manage their children schedule. As a parent it's
 
 ## Wireframes
 **************
-![Landing Page1](image/WireFramepj4.jpeg)
-![Landing Page1](image/WireFrame4.jpeg)
-![Landing Page1](image/WireFramep4.jpeg)
+![Landing Page1](image/WireFramepj4.jpg)
+![Landing Page1](image/WireFrame4.jpg)
+![Landing Page1](image/WireFramep4.jpg)
