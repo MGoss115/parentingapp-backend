@@ -13,7 +13,7 @@ Interactive app to help parents manage their children schedule. As a parent it's
 - Javascript 
 - Python
 - Bootstrap CSS
-- HTML/CSS
+- CSS
 - Django
 - React
 
